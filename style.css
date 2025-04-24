@@ -1,6 +1,4 @@
-This is your external CSS file for styling. Save it in the same folder as index.html.
-
-css body { font-family: Arial, sans-serif; margin: 0; background: #f4f7fa; color: #333; line-height: 1.6; }
+body { font-family: Arial, sans-serif; margin: 0; background: #f4f7fa; color: #333; line-height: 1.6; }
 
 header { background: #0c2340; color: #fff; padding: 30px 20px; text-align: center; }
 
